@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joyalserrao
 - 👀 I’m interested in Swift, SwiftUI, Obj-c
-- 🌱 I’m currently learning Rx, combain
+- 🌱 I’m currently learning Rx, combine
 - 📫 How to reach me serraojoyal@gmail.com
 
 <!---
